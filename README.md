@@ -106,3 +106,4 @@ Most of my projects have been done in Javascript but the reality is that when I 
 
 <a href="https://www.linkedin.com/in/rodrigo-luque-cuesta/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" width="40"></a>
 <a href="mailto:rafarod8@gmail.com" target="_blank"><img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="Mail" width="40"></a>
+<a href="https://roluquec.medium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="40"></a>
