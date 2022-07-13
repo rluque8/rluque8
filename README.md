@@ -11,7 +11,7 @@
 
 My name is **Rodrigo**, nice to meet you! 
 
-I am a Junior Software Developer from Madrid, Spain and I am a passionate of Javascript/Typescript. Even though I am a FullStack profile, who has worked with both React and Angular in the frontend, I have to confess you that I enjoy more working on the backend side of a project.
+I am a Backend Developer from Madrid, Spain and I am a passionate of Javascript/Typescript. Even though I am a FullStack profile, who has worked with both React and Angular in the frontend, I have to confess you that I enjoy more working on the backend side of a project.
 
 - 🔭 I'm constantly working on personal projects based on ideas that come up to my mind.
 - 👥 I'm a team-player and I enjoy getting feedback from different points of view. Team-work makes the dream-work, right?
