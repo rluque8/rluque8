@@ -90,15 +90,6 @@ Some articles about the app:
 
 ---
 
-### Some Git stats
-
-Most of my projects have been done in Javascript but the reality is that when I started my adventure in programming, I did a deep dive in Ruby on Rails to get a grasp of the basics.
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rluque8&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rluque8&show_icons=true&count_private=true)
-
-![https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6)
-
 
 📩 If you want to know more about my work, feel free to contact me. 
 
